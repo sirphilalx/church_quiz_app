@@ -17,9 +17,9 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "The Church of Christ Quiz App",
+  title: "The Church of Christ, Evueta",
   description:
-    "This quiz app was built by Okpokpa Philemon for the church at Evueta to use during her end of year quiz for various age-groups and classifications in the church. The church is located at 9, Evueta street, Sergeant Quarters, Ughelli, Delta State, Nigeria.",
+    "This is the official website of the Church of Christ, Evueta built by Okpokpa Philemon and it contains a quiz app for the church at Evueta to use during her end of year quiz for various age-groups and classifications in the church. The church is located at 9, Evueta street, Sergeant Quarters, Ughelli, Delta State, Nigeria.",
   icons: {
     icon: "./Assets/images/cocLogo.png",
   },
